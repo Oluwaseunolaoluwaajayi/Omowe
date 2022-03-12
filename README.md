@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Eagke
-- 👀 I’m interested in becoming a front-end developer 
-- 🌱 I’m currently learning css/html
-- 💞️ I’m looking to collaborate on different projects
+- 👋 Hi, I am omowe Shaun Ajayi
+- 👀 I am interested in becoming a front-end developer 
+- 🌱 I am currently learning css/html and Javascript 
+- 💞️ I am looking to collaborate on different projects
 - 📫 How to reach me ajayiolaoluwa8@gmail.com 
 
 <!---
