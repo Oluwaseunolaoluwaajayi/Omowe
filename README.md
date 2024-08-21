@@ -1,6 +1,6 @@
 - 👋 Hi, I am omowe Shaun Ajayi
-- 👀 I am interested in becoming a front-end developer 
-- 🌱 I am currently learning css/html and Javascript 
+- 👀 front-end designer and a developer 
+ 
 - 💞️ I am looking to collaborate on different projects
 - 📫 How to reach me ajayiolaoluwa8@gmail.com 
 
